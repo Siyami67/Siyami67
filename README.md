@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=Siyami67&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=Siyami67&color=blueviolet&style=for-the-badge)
 
 
 
